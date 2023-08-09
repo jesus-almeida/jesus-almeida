@@ -1,3 +1,9 @@
+<!--
+Github stats code taken from Zinkil-YT | https://github.com/Zinkil-YT/Zinkil-YT
+
+Discord idea taken from Zinkil-YT | https://github.com/Zinkil-YT/Zinkil-YT
+-->
+
 <div id=header align="center">
 <img src="https://media.giphy.com/media/QQQoLTqkm7v3y/giphy.gif" width="200" />
 <h1 align="center">Hi 👋🏻, I'm Gabriel</h1>
@@ -46,3 +52,9 @@
 
 <h3 align="center">🥇 Top langs </h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGqboo&layout=compact&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="xGqboo :: Top Langs" /></p>
+
+<!--
+Github stats code taken from Zinkil-YT | https://github.com/Zinkil-YT/Zinkil-YT
+
+Discord idea taken from Zinkil-YT | https://github.com/Zinkil-YT/Zinkil-YT
+-->
