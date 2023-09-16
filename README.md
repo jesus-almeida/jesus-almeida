@@ -18,7 +18,7 @@ Discord idea taken from Zinkil-YT | https://github.com/Zinkil-YT/Zinkil-YT
 
 - 👦🏻 Tengo **14** años de edad.
 
-- 📝 Actualmente estoy aprendiendo desarrollo web desde mi casa.
+- 📝 Actualmente estoy aprendiendo Ingles y desarrollo web desde mi casa.
 
 ---
 
