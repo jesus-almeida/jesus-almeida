@@ -6,7 +6,7 @@ Discord idea taken from Zinkil-YT | https://github.com/Zinkil-YT/Zinkil-YT
 
 <div id=header align="center">
 <img src="https://media.giphy.com/media/QQQoLTqkm7v3y/giphy.gif" width="200" />
-<h1 align="center">Hi 👋🏻, I'm Jesús</h1>
+<h1 align="center">Hola 👋🏻, Soy Jesús.</h1>
 <h3 align="center">Me gusta el desarrollo web.w</h3>
 </div>
 
