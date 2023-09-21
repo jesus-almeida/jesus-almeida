@@ -45,13 +45,13 @@ Discord idea taken from Zinkil-YT | https://github.com/Zinkil-YT/Zinkil-YT
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <h3 align="center">👀 Número de visitantes </h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{xGqboo}/count.svg" alt="xGqboo :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{jesus-almeida}/count.svg" alt="xGqboo :: Visitor's Count" /></p>
 
 <h3 align="center">👤 Estadísticas del perfil </h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xGqboo&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="xGqboo :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jesus-almeida&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="Jesús Almeida :: Profile Stats" /></p>
 
 <h3 align="center">🥇 Lenguajes </h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGqboo&layout=compact&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="xGqboo :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-almeida&layout=compact&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="Jesús Almeida :: Top Langs" /></p>
 
 <!--
 Github stats code taken from Zinkil-YT | https://github.com/Zinkil-YT/Zinkil-YT
