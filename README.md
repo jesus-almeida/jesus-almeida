@@ -7,7 +7,7 @@ Discord idea taken from Zinkil-YT | https://github.com/Zinkil-YT/Zinkil-YT
 <div id=header align="center">
 <img src="https://media.giphy.com/media/QQQoLTqkm7v3y/giphy.gif" width="200" />
 <h1 align="center">Hola 👋🏻, Soy Jesús.</h1>
-<h3 align="center">Me gustan las computadoras y la programación.</h3>
+<h3 align="center">Me gusta la programación y la tecnología.</h3>
 </div>
 
 ---
@@ -18,9 +18,9 @@ Discord idea taken from Zinkil-YT | https://github.com/Zinkil-YT/Zinkil-YT
 
 - 👦🏻 Tengo **14** años de edad.
 
-- 📝 Actualmente estoy aprendiendo **Ingles** y **Desarrollo Web** desde mi casa.
+- 📝 Actualmente estoy aprendiendo **Inglés** y **Desarrollo Web** desde mi casa.
 
-- 👨🏻‍💻🎮 Me gusta **programar** y jugar **Minecraft**.
+- 👨🏻‍💻🎮 Me gusta **Programar** y jugar **Minecraft**.
 
 ---
 
