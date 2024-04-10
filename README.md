@@ -25,7 +25,7 @@ Discord idea taken from Zinkil-YT | https://github.com/Zinkil-YT/Zinkil-YT
 ---
 
 <h2 align="center">💬 Mi Discord: </h2>
-<p align="center"><img src="https://discord.c99.nl/widget/theme-1/961980282808983623.png"/></p>
+<p align="center"><img src="https://discord.c99.nl/widget/theme-2/961980282808983623.png"/></p>
 
 ---
 <!--
