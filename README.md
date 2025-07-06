@@ -16,7 +16,7 @@ Discord idea taken from Zinkil-YT | https://github.com/Zinkil-YT/Zinkil-YT
 
 - 🌎 Vivo en **Venezuela**. 🇻🇪
 
-- 👦🏻 Tengo **15** años de edad.
+- 👦🏻 Tengo **17** años de edad.
 
 - 📝 Actualmente estoy aprendiendo **Inglés** y **Desarrollo Web** desde mi casa.
 
