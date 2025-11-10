@@ -6,13 +6,19 @@ Discord idea taken from Zinkil-YT | https://github.com/Zinkil-YT/Zinkil-YT
 
 <div id=header align="center">
 <img src="https://media.giphy.com/media/QQQoLTqkm7v3y/giphy.gif" width="200" />
-<h1 align="center">Hola 👋🏻, Soy Jesús.</h1>
-<h3 align="center">Me gusta la programación y la tecnología.</h3>
+<h1 align="center">
+  Hola
+  <a href="https://github.com/jesus-almeida" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+  , Soy Jesús!
+</h1>
+<h3 align="center">Me gusta la Programación y la Tecnología.</h3>
 </div>
 
 ---
 
-### 👨‍💻 Sobre mí
+<h2 align="center">👨‍💻 Sobre mí</h2>
 
 - 🌎 Vivo en **Venezuela**. 🇻🇪
 
@@ -30,7 +36,8 @@ Discord idea taken from Zinkil-YT | https://github.com/Zinkil-YT/Zinkil-YT
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <h3 align="center">👀 Número de visitantes </h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{jesus-almeida}/count.svg" alt="Jesús Almeida :: Visitor's Count" /></p>
+<!--<p align="center"><img src="https://profile-counter.glitch.me/{jesus-almeida}/count.svg" alt="Jesús Almeida :: Visitor's Count" /></p>-->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jesus-almeida&label=Profile%20views&color=0e75b6&style=flat" alt="jesus-almeida"/></p>
 
 <h3 align="center">👤 Estadísticas del perfil </h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jesus-almeida&include_all_commits=true&count_private=true&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117" alt="Jesús Almeida :: Profile Stats" /></p>
